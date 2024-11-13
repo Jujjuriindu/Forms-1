@@ -1,0 +1,27 @@
+.mainD {
+  border: 5px solid black;
+  width: 500px;
+  height: 550px;
+  background-color: lightsalmon;
+}
+
+label {
+  width: 200px;
+  display: inline-block;
+  font-size: 1.5rem;
+}
+
+form div {
+  margin: 20px;
+}
+
+#submitButton {
+  text-align: center;
+  font-size: 2.5rem;
+}
+
+#submitButton1 {
+  width: 70px;
+  height: 50px;
+  background-color: lightgreen;
+}
